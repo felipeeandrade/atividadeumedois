@@ -1,0 +1,39 @@
+
+.flex-container { 
+ background-color: #FFA500;
+  height: 500px;
+  width: 500px;
+
+
+}
+.flex-item {
+    background-color:#00FF00;
+    height: 250px;
+    width: 250px;
+
+
+}
+
+.flex-item2 {
+    color:aliceblue;
+    background: red;
+    font-size: 25px;
+    font-family: monospace;
+  
+
+}
+.flex-item3 { 
+  
+    height:50vh;
+    background-color:rgb(0,191,255);
+    width: 50%;
+
+
+
+}
+.filha_da_D {
+    width:75vw;
+    height:50%;
+    background-color:rgb(255,0,0);
+
+}

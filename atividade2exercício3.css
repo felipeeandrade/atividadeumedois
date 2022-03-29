@@ -1,0 +1,37 @@
+body {
+    background-color:#D3D3D3 ;
+}
+
+.nova_div {
+    background-color: aliceblue;
+    height: 500px;
+    width: 50vw;
+    border-color: black;
+    border-radius: 10px;
+    border: dotted;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+.filhinha {
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+
+}
+.filhinhadois {
+    background-color: rgb(255, 69, 0);
+    height: 100px;
+    width: 30%;
+
+
+}
+.filhinhatres {
+    background-color: rgb(0, 128, 0);
+    color: aliceblue;
+    font-size: 30px;
+    word-spacing: 50px;
+    letter-spacing: 50px;
+}

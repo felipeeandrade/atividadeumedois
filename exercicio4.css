@@ -1,0 +1,64 @@
+.classum{
+    background-color: aqua;
+    width: 30%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    border: 20px;
+}
+.classdois{
+   background-color: aquamarine;
+   border: 10px;
+   width: 70%;
+   justify-content: center;
+   display: flex;
+   margin:30px 
+}
+.classtres{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+}
+#primeiro{
+    background-color:red ;
+    width:50px;
+    height: 15px;
+
+}
+#segundo{
+    background-color: bisque;
+    width: 45%;
+    height: 15px;
+
+}
+#terceiro{
+    background-color:black ;
+    width:45%;
+    height: 15px;
+}
+#quarto{
+    background-color: blueviolet;
+    width: 45%;
+    height: 15px;
+}
+.classquatro{
+    margin-top: 100px;
+    justify-content: center;
+    display: flex;
+}
+#linha{
+    background-color:brown ;
+    height:15px;
+    width:30%;
+}
+#segundalinha{
+    background-color:pink ;
+    height: 15px;
+    width: 30%;
+
+}
+#terceiralinha{
+    background-color: orange;
+    width: 30%;
+    height: 15px;
+}

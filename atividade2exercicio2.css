@@ -1,0 +1,21 @@
+.segunda_div {
+    background-color: rgb#C8A2C8;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.filha_div {
+    background-color:#ffc0cb;
+    height: max-content;
+    width: 250px;
+    border-color: red;
+    border-width: 20px;
+
+
+}
+.segunda_filha {
+    background-color:#7fffd4;
+    height: 88%;
+    width: 30%;
+}
